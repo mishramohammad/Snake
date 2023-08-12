@@ -22,4 +22,3 @@ This is a simple Snake Game where the player controls a snake to eat food and gr
 freeCodeCamp - Panayiotis Nicolaou
 https://www.freecodecamp.org/news/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e/
 
-[Image]["C:\Users\mishr\OneDrive\Desktop\snake\snake.png"]
